@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>LISTA</title>
 </head>
 <body>
 <p>Lista de perros y gatos:</p>
