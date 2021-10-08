@@ -5,7 +5,7 @@
 <title>Page Title</title>
 </head>
 <body>
-<p>Lista de la compra:</p>
+<p>Lista de perros y gatos:</p>
 <ul>
 <li><a href="https://es.wikipedia.org/wiki/Husky_siberiano">Información de Husky siberiano</a></li>
 <li><a href="https://es.wikipedia.org/wiki/Bulldog">Información de Bulldog</a></li>
